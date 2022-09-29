@@ -9,18 +9,19 @@
 
     <TextView
         android:id="@+id/idmsg2"
-        android:layout_width="398dp"
-        android:layout_height="51dp"
-        android:layout_marginStart="182dp"
+        android:layout_width="250dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="352dp"
-        android:layout_marginEnd="171dp"
+        android:layout_marginEnd="8dp"
         android:layout_marginBottom="360dp"
         android:text="Olá, sou a Segunda Tela"
         android:textAlignment="center"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.543"
+        app:layout_constraintHorizontal_bias="0.544"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.333" />
+        app:layout_constraintVertical_bias="0.375" />
 </androidx.constraintlayout.widget.ConstraintLayout>
